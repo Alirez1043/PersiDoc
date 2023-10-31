@@ -1,9 +1,8 @@
 # PersiDoc
-Detect Persian documents orientation &amp; Deskew Persian documents 
-
-## ![big bird's attention block]()
-
-
+In this project, we focus on accurately detecting the orientation of Persian documents and subsequently deskewing them. By leveraging Deep Neural Networks (DNN) for orientation detection and integrating computer vision techniques for deskewing, we've achieved both speed and precision in our solution.
+<p align="center">
+  <img src="https://github.com/Alirez1043/PersiDoc/blob/main/images/Screenshot%20from%202023-11-01%2000-49-44.png" alt="big bird's attention block" width="600" height="400">
+</p>
 ## How to use❓
 
 ## Contact Us 🤝
