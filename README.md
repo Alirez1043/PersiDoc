@@ -51,6 +51,9 @@ Inference bash script asks you for options to use :
 3. half_image(y/n)
 
     if yes :   the image size will be resized to half (Inference Time Optimization Method , default = False)
+
+Finally :
+    Output preprocessed Image will be save at ./app_outputs (you do not need to make it  ,docker.sh handle it)
 ## Contact Us 🤝
 
 Should you have any technical inquiries regarding the model, pretraining, code, or publications, please raise an issue in the GitHub repository. This ensures a swift response from our side.
