@@ -36,9 +36,9 @@ In this project, we focus on accurately detecting the orientation of Persian doc
    bash inference.sh
 Inference bash script asks you for options to use :
 
-1 - image_name
+1. image_name
 
-2 - select method :  (1 or 2 or 3) default = 1
+2. select method :  (1 or 2 or 3) default = 1
 
  Methods for deskewing:
  
@@ -48,7 +48,7 @@ Inference bash script asks you for options to use :
      
      3. Method 3: Low speed  and perfect accuracy (Good for data labeling)
 
-3 - half_image(y/n)
+3. half_image(y/n)
 
     if yes :   the image size will be resized to half (Inference Time Optimization Method , default = False)
 ## Contact Us 🤝
