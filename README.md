@@ -60,7 +60,7 @@ Should you have any technical inquiries regarding the model, pretraining, code, 
 While we haven't published any papers on this work, if you find it valuable and use it in your research or projects, we appreciate your citation. Please reference us using the following bibtex entry:
 
 ```bibtex
-@misc{ParsBigBird,
+@misc{PersiDoc,
   author          = {Tomari, Alireza},
   title           = {PersiDoc: Persian Document orientation detection and deskewing},
   year            = 2023,
