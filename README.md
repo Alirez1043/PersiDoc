@@ -53,7 +53,6 @@ Inference bash script asks you for options to use :
     if yes :   the image size will be resized to half (Inference Time Optimization Method , default = False)
 
 Finally :
-
     Finally: The preprocessed image will be saved in ./app_outputs. You don't need to create it; docker.sh will handle it.
 ## Contact Us 🤝
 
