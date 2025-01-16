@@ -15,7 +15,10 @@ In this project, we focus on accurately detecting the orientation of Persian doc
 
 ## Running app
 1. Clone the repository: `git clone https://github.com/Alirez1043/PersiDoc.git`
-2. Navigate to the project directory: `cd PersiDoc`
+2. Navigate to the project directory: `cd PersiDoc/app`
+3. Build the Docker image: `docker build -t persidoc .`
+4. Run the Docker container: `docker run -p 8501:8501 persidoc`
+5. Access the application : Open your web browser and go to `http://localhost:8501` .
 
 
 ## Contact Us 🤝
