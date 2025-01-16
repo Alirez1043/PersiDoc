@@ -1,6 +1,0 @@
-flask
-opencv-python-headless
-numpy
-scipy
-flask
-requests
